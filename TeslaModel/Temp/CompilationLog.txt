@@ -1,0 +1,24 @@
+# Starting compiling UnityEngine.TestRunner.dll
+/Volumes/ExtremeSSD/AMPTech/2020.2.0f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-d2536ed193e0a4c938df2c20a41e0f72
+# Starting compiling UnityEngine.UI.dll
+/Volumes/ExtremeSSD/AMPTech/2020.2.0f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-62a95f891ce83466387383442c6ed0a5
+# Starting compiling UnityEditor.TestRunner.dll
+/Volumes/ExtremeSSD/AMPTech/2020.2.0f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-c97b8837d53224ab6882549f8c024293
+# Starting compiling UnityEditor.UI.dll
+/Volumes/ExtremeSSD/AMPTech/2020.2.0f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-6b8f4cf14509541018ce907c315e6d9c
+# Starting compiling Unity.VSCode.Editor.dll
+/Volumes/ExtremeSSD/AMPTech/2020.2.0f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-a0ca9cc18d66d43cea72a142d7ba05c6
+# Starting compiling Unity.VisualStudio.Editor.dll
+/Volumes/ExtremeSSD/AMPTech/2020.2.0f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-8a6c2d258b42f4ffc9b505acaa88f222
+# Starting compiling Unity.Timeline.dll
+/Volumes/ExtremeSSD/AMPTech/2020.2.0f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-7faa4c86f39f04d6fbe98ab706421b20
+# Starting compiling Unity.TextMeshPro.dll
+/Volumes/ExtremeSSD/AMPTech/2020.2.0f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-846b9252720934eb092ff4592a6f650a
+# Starting compiling Unity.CollabProxy.Editor.dll
+/Volumes/ExtremeSSD/AMPTech/2020.2.0f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-89b8b6ce0dfd447f18deed9ab901d80e
+# Starting compiling Unity.Rider.Editor.dll
+/Volumes/ExtremeSSD/AMPTech/2020.2.0f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-1258411c442894577af3e202672a749c
+# Starting compiling Unity.Timeline.Editor.dll
+/Volumes/ExtremeSSD/AMPTech/2020.2.0f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-80478114259be4d1c9dc1a6683f72399
+# Starting compiling Unity.TextMeshPro.Editor.dll
+/Volumes/ExtremeSSD/AMPTech/2020.2.0f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-1623b5aba0ea64d04b5a62f0fc2a9ed2
